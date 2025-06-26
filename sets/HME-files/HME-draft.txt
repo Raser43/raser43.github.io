@@ -1,0 +1,929 @@
+[CustomCards]
+	[
+		{
+			"name": "Master Chief, John 117",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/57_Master Chief, John 117.png"
+			}
+		},
+		{
+			"name": "Hunter Bond Brothers",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Lekgolo Worm",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/42_Hunter Bond Brothers.png"
+			}
+		},
+		{
+			"name": "Mgalekgolo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Lekgolo Worm",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/8_Mgalekgolo.png"
+			}
+		},
+		{
+			"name": "Cortana",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Cortana",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/11_Cortana.png"
+			}
+		},
+		{
+			"name": "Thel 'Vadam, The Arbiter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Sangheili Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/63_Thel 'Vadam, The Arbiter.png"
+			}
+		},
+		{
+			"name": "Ripa 'Moramee, Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{B}",
+			"type": "Legendary Creature — Sangheili Warrior",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/60_Ripa 'Moramee, Arbiter.png"
+			}
+		},
+		{
+			"name": "Sangheili Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Sangheili Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/4_Sangheili Warrior.png"
+			}
+		},
+		{
+			"name": "Hijack",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/34_Hijack.png"
+			}
+		},
+		{
+			"name": "Assault Rifle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/65_Assault Rifle.png"
+			}
+		},
+		{
+			"name": "Skirmishers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Kig-Yar Scout",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/37_Skirmishers.png"
+			}
+		},
+		{
+			"name": "Glassing",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/4_Glassing.png"
+			}
+		},
+		{
+			"name": "Skirmisher Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Kig-Yar Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/36_Skirmisher Champion.png"
+			}
+		},
+		{
+			"name": "Skirmisher Sharpshooter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Kig-Yar Scout",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/44_Skirmisher Sharpshooter.png"
+			}
+		},
+		{
+			"name": "Rest in Peace",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/9_Rest in Peace.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/2_Human Soldier.png"
+			}
+		},
+		{
+			"name": "ODST",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/58_ODST.png"
+			}
+		},
+		{
+			"name": "Cortana's Sacrifice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/12_Cortana's Sacrifice.png"
+			}
+		},
+		{
+			"name": "Rampancy",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/15_Rampancy.png"
+			}
+		},
+		{
+			"name": "Tartarus, Brute Chieftain",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Jiralhanae Berserker",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/62_Tartarus, Brute Chieftain.png"
+			}
+		},
+		{
+			"name": "Grunt Mule",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Unggoy",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/5_Grunt Mule.png"
+			}
+		},
+		{
+			"name": "Grunt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Unggoy",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/31_Grunt.png"
+			}
+		},
+		{
+			"name": "Grunt Squad",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Unggoy",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/32_Grunt Squad.png"
+			}
+		},
+		{
+			"name": "Needler Grunts",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Unggoy",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/35_Needler Grunts.png"
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/8_Reinforcements.png"
+			}
+		},
+		{
+			"name": "Despise",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/18_Despise.png"
+			}
+		},
+		{
+			"name": "Blood Gulch",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/12_Blood Gulch.png"
+			}
+		},
+		{
+			"name": "Halo",
+			"rarity": "rare",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/66_Halo.png"
+			}
+		},
+		{
+			"name": "Slipspace Drive",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/69_Slipspace Drive.png"
+			}
+		},
+		{
+			"name": "Suicide Grunt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Unggoy",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/38_Suicide Grunt.png"
+			}
+		},
+		{
+			"name": "Gravemind",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Flood",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/20_Gravemind.png"
+			}
+		},
+		{
+			"name": "The Midnight Facility",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/22_The Midnight Facility.png"
+			}
+		},
+		{
+			"name": "Coverup",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/50_Coverup.png"
+			}
+		},
+		{
+			"name": "Brute Beserker",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Jiralhanae Beserker",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/26_Brute Beserker.png"
+			}
+		},
+		{
+			"name": "Flood Hivemind",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/19_Flood Hivemind.png"
+			}
+		},
+		{
+			"name": "Killing Spree",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/6_Killing Spree.png"
+			}
+		},
+		{
+			"name": "Fall of the Forerunners",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/52_Fall of the Forerunners.png"
+			}
+		},
+		{
+			"name": "The Ark",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/64_The Ark.png"
+			}
+		},
+		{
+			"name": "Infused Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Huragok Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/21_Infused Engineer.png"
+			}
+		},
+		{
+			"name": "Shielding Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Huragok Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/10_Shielding Engineer.png"
+			}
+		},
+		{
+			"name": "Repairing Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Huragok Construct",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/16_Repairing Engineer.png"
+			}
+		},
+		{
+			"name": "Combustible Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Huragok Construct",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/30_Combustible Engineer.png"
+			}
+		},
+		{
+			"name": "Healing Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Huragok Construct",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/41_Healing Engineer.png"
+			}
+		},
+		{
+			"name": "Quick to Adjust",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Huragok Construct",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://raser43.github.io/sets/HME-files/img/7_Quick to Adjust_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/7_Quick to Adjust_front.png"
+			}
+		},
+		{
+			"name": "No Survivors",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/23_No Survivors.png"
+			}
+		},
+		{
+			"name": "Forge World",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/7_Forge World.png"
+			}
+		},
+		{
+			"name": "Emile, Noble Four",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{B}{B}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/9_Emile, Noble Four.png"
+			}
+		},
+		{
+			"name": "Carter, Noble One",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/1_Carter, Noble One.png"
+			}
+		},
+		{
+			"name": "Kat, Noble Two",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/3_Kat, Noble Two.png"
+			}
+		},
+		{
+			"name": "Jun, Noble Three",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/8_Jun, Noble Three.png"
+			}
+		},
+		{
+			"name": "Jorge, Noble Five",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/10_Jorge, Noble Five.png"
+			}
+		},
+		{
+			"name": "Noble Six, the Lone Wolf",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/11_Noble Six, the Lone Wolf.png"
+			}
+		},
+		{
+			"name": "Elite Minor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Sangheili Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/3_Elite Minor.png"
+			}
+		},
+		{
+			"name": "The Great Journey",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/53_The Great Journey.png"
+			}
+		},
+		{
+			"name": "The Great Schism",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/54_The Great Schism.png"
+			}
+		},
+		{
+			"name": "The Insurrection",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/56_The Insurrection.png"
+			}
+		},
+		{
+			"name": "Conservation Measure",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/49_Conservation Measure.png"
+			}
+		},
+		{
+			"name": "Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/14_Guardian.png"
+			}
+		},
+		{
+			"name": "Spartan Headhunter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/25_Spartan Headhunter.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/7_Soldier.png"
+			}
+		},
+		{
+			"name": "Goliath",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Lekgolo Worm",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/40_Goliath.png"
+			}
+		},
+		{
+			"name": "Brute Chieftain",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Jiralhanae Berserker",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/27_Brute Chieftain.png"
+			}
+		},
+		{
+			"name": "Elite Field Marshal",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Sangheili Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/2_Elite Field Marshal.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/1_Human.png"
+			}
+		},
+		{
+			"name": "Jiralhanae Berserker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Jiralhanae Berserker",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/6_Jiralhanae Berserker.png"
+			}
+		},
+		{
+			"name": "Flood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Flood",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/5_Flood.png"
+			}
+		},
+		{
+			"name": "Guerilla Snipers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/33_Guerilla Snipers.png"
+			}
+		},
+		{
+			"name": "Banished Warcry",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/47_Banished Warcry.png"
+			}
+		},
+		{
+			"name": "Brute Minor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Jiralhanae Beserker",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/29_Brute Minor.png"
+			}
+		},
+		{
+			"name": "Needler",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/67_Needler.png"
+			}
+		},
+		{
+			"name": "Plasma Pistol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/68_Plasma Pistol.png"
+			}
+		},
+		{
+			"name": "Warthog",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/70_Warthog.png"
+			}
+		},
+		{
+			"name": "Biomass Animation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/48_Biomass Animation.png"
+			}
+		},
+		{
+			"name": "Proto-Gravemind",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Flood",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/24_Proto-Gravemind.png"
+			}
+		},
+		{
+			"name": "Landing Zone",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/6_Landing Zone.png"
+			}
+		},
+		{
+			"name": "Promethean Knight",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact Creature — Promethean Construct",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/59_Promethean Knight.png"
+			}
+		},
+		{
+			"name": "LASO",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/4_LASO.png"
+			}
+		},
+		{
+			"name": "Eject",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/13_Eject.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/3_Human Soldier.png"
+			}
+		},
+		{
+			"name": "Anti-Aircraft Fire",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/39_Anti-Aircraft Fire.png"
+			}
+		},
+		{
+			"name": "Brute Major",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Jiralhanae Berserker",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/28_Brute Major.png"
+			}
+		},
+		{
+			"name": "Thanolekgolo",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Lekgolo Worm",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/45_Thanolekgolo.png"
+			}
+		},
+		{
+			"name": "Map Veto",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/2_Map Veto.png"
+			}
+		},
+		{
+			"name": "Halo 2 Jackal Sniper",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/5_Halo 2 Jackal Sniper.png"
+			}
+		},
+		{
+			"name": "Assassination",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/17_Assassination.png"
+			}
+		},
+		{
+			"name": "Moa",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raser43.github.io/sets/HME-files/img/43_Moa.png"
+			}
+		},
+	]
+
+[rare(1)]
+	5 Master Chief, John 117
+	5 Cortana
+	5 Thel 'Vadam, The Arbiter
+	5 Ripa 'Moramee, Arbiter
+	5 Glassing
+	5 Skirmisher Champion
+	5 Rest in Peace
+	5 Rampancy
+	5 Tartarus, Brute Chieftain
+	5 Halo
+	5 Slipspace Drive
+	5 Gravemind
+	5 The Midnight Facility
+	5 Flood Hivemind
+	5 Fall of the Forerunners
+	5 The Ark
+	5 Quick to Adjust
+	5 The Great Journey
+	5 The Great Schism
+	5 The Insurrection
+	5 Conservation Measure
+	5 Guardian
+	5 Spartan Headhunter
+	5 Goliath
+	5 Brute Chieftain
+	5 Elite Field Marshal
+	5 Banished Warcry
+	5 Biomass Animation
+	5 Proto-Gravemind
+	5 Promethean Knight
+[uncommon(3)]
+	5 Hunter Bond Brothers
+	5 Skirmisher Sharpshooter
+	5 ODST
+	5 Grunt Mule
+	5 Despise
+	5 Coverup
+	5 Infused Engineer
+	5 Shielding Engineer
+	5 Repairing Engineer
+	5 Combustible Engineer
+	5 Healing Engineer
+	5 Guerilla Snipers
+	5 Plasma Pistol
+	5 Warthog
+	5 Brute Major
+	5 Thanolekgolo
+[common(10)]
+	5 Hijack
+	5 Assault Rifle
+	5 Skirmishers
+	5 Cortana's Sacrifice
+	5 Grunt
+	5 Grunt Squad
+	5 Needler Grunts
+	5 Reinforcements
+	5 Suicide Grunt
+	5 Brute Beserker
+	5 No Survivors
+	5 Elite Minor
+	5 Brute Minor
+	5 Needler
+	5 Landing Zone
+	5 Eject
+	5 Anti-Aircraft Fire
+	5 Assassination
+	5 Moa
